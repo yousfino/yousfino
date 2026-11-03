@@ -78,7 +78,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousfino&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousfino&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
